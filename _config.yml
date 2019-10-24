@@ -1,0 +1,31 @@
+title: Ben Sinclair
+#email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Ben's blog!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: bensinclair
+github_username:  bensinclair
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+#
+# Jekyll Settings
+#
+permalink: /archive/:year/:month/:day/:title/
+paginate: 20
+page_group_size: 5 # number of pages to group by in the pagination.
+paginate_path: "/archive/page/:num"
+category_dir: categories
+
+# Build settings
+markdown: kramdown
+kramdown:
+  hard_wrap: false
+
+exclude: [README.md .gitattributes .gitignore]
+keep_files: [robots.txt favicon.ico]
+incremental: true
