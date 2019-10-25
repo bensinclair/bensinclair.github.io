@@ -1,31 +1,54 @@
 title: Ben Sinclair
-#email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Ben's blog!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: bensinclair
-github_username:  bensinclair
+author: Ben Sinclair
+#email: your-email@domain.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  The blog of Ben Sinclair
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+plainwhite:
+  name: Ben Sinclair
+  tagline: CTO @ Tithe.ly
+  date_format: "%b %-d, %Y"
+  sitemap: true # set to true to generate sitemap.xml content
+
+  # generate social links in footer
+  social_links:
+    twitter: bensinclair
+    github:  bensinclair
+    linkedIn: in/benlsinclair
+    rss: rss
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
 
 # Build settings
-theme: minima
+theme: plainwhite
+
 plugins:
-  - jekyll-feed
-
-#
-# Jekyll Settings
-#
-permalink: /archive/:year/:month/:day/:title/
-paginate: 20
-page_group_size: 5 # number of pages to group by in the pagination.
-paginate_path: "/archive/page/:num"
-category_dir: categories
-
-# Build settings
-markdown: kramdown
-kramdown:
-  hard_wrap: false
-
-exclude: [README.md .gitattributes .gitignore]
-keep_files: [robots.txt favicon.ico]
-incremental: true
+  - jekyll-seo-tag
+#  - jekyll-feed

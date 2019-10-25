@@ -4,9 +4,7 @@ title:  "Share Knowledge Freely"
 description:  "People or companies that share knowledge freely are successful."
 date:   2019-10-24 23:14:43 +1000
 ---
-I'm no night owl. I'm not really a morning person either. I love my sleep. I always have.
-
-When I cannot sleep, which is rare, it's frustrating. Tonight is one of those nights. 
+I'm no night owl. I'm not really a morning person either. I love my sleep. I always have. When I cannot sleep, which is rare, it's frustrating. Tonight is one of those nights. 
 
 ## The thing in my head
 
