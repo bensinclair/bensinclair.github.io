@@ -8,7 +8,7 @@ I'm no night owl. I'm not really a morning person either. I love my sleep. I alw
 
 ## The thing in my head
 
-Tonight I was laying in bed contimplating about how people or companies who share information freely are successful. 
+Tonight I was laying in bed contemplating about how people or companies who share information freely are successful. 
 
 Not everyone is successful who does this, but it sure does seem to help.
 
@@ -24,7 +24,7 @@ Take a plumber for example. If you are obtaining quotes for some work to be done
 
 I want to be someone who helps and encourages others. I can do this by sharing knowledge freely. 
 
-I've been the CTO at a company called [Tithe.ly](https://get.tithe.ly) for about 6 months now. We are a 100% remote company. We have 90 staff. We have people working in 4 countries and 3 contients. We have 5 software platforms run by different engineering teams. We are growing fast. I learning a lot and enjoying every second!
+I've been the CTO at a company called [Tithe.ly](https://get.tithe.ly) for about 6 months now. We are a 100% remote company. We have 90 staff. We have people working in 4 countries and 3 continents. We have 5 software platforms run by different engineering teams. We are growing fast. I am learning a lot and enjoying every second!
 
 So the thought that got me out of bed is "I want to share knowledge so I'm going to create a blog".
 
