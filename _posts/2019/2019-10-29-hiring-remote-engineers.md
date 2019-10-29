@@ -2,7 +2,7 @@
 layout: post
 title:  "Hiring Remote Engineers"
 description:  "An overview of how I hire remote engineers."
-categories: [ hiring, engineering ]
+tags: [ hiring, engineering ]
 date:   2019-10-29 20:27:00 +1000
 excerpt_image: /assets/images/kalen-emsley-bkci_8qcdvq-unsplash.png
 ---
