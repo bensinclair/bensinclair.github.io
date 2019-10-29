@@ -29,6 +29,7 @@ layout: default
       <div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: date_format }}</div>
     </div>
     <div class="post">
+      <p><img src="{{ post.excerpt_image | relative_url }}" alt="{{ post.title | escape }}" class="center-cropped"></p>
       {%- if site.show_excerpts -%}
       {{ post.excerpt }}
       {%- endif -%}

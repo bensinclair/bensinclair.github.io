@@ -3,12 +3,15 @@ layout: post
 title:  "Share Knowledge Freely"
 description:  "People or companies that share knowledge freely are successful."
 date:   2019-10-24 23:14:43 +1000
+excerpt_image: /assets/images/toa-heftiba-lbmvueabkt8-unsplash.png
 ---
 I'm no night owl. I'm not really a morning person either. I love my sleep. I always have. When I cannot sleep, which is rare, it's frustrating. Tonight is one of those nights. 
 
+![Photo by Toa Heftiba on Unsplash]({{ "/assets/images/toa-heftiba-lbmvueabkt8-unsplash.png" | relative_url }})
+
 ## The thing in my head
 
-Tonight I was laying in bed contemplating about how people or companies who share information freely are successful. 
+Tonight I was laying in bed contemplating how people or companies who share information freely are successful. 
 
 Not everyone is successful who does this, but it sure does seem to help.
 
@@ -18,7 +21,7 @@ I've been inspired of late by [Jason Fried](https://twitter.com/jasonfried). I'v
 
 Companies like [HubSpot](https://www.hubspot.com) use this sharing of knowledge to generate leads. Smart.
 
-Take a plumber for example. If you are obtaining quotes for some work to be done, you're going to trust the guy who is freely sharing their thoughts and advice about plumbing and your specific issue. This openess and transparency helps build confidence in others.
+Take a plumber for example. If you are obtaining quotes for some work to be done, you're going to trust the guy who is freely sharing their thoughts and advice about plumbing and your specific issue. This openness and transparency help build confidence in others.
 
 ## So why is this all so important that I'm losing sleep?
 
@@ -31,3 +34,5 @@ So the thought that got me out of bed is "I want to share knowledge so I'm going
 My purpose is to share my knowledge with those starting a company, engineers, team leads, CTO's, anyone who is interested in my journey.
 
 Let's see how this goes...
+
+<small>Photo by Toa Heftiba on Unsplash</small>
