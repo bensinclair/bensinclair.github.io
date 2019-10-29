@@ -33,6 +33,7 @@ layout: default
       {%- if site.show_excerpts -%}
       {{ post.excerpt }}
       {%- endif -%}
+      <p><a href="{{ post.url | relative_url }}">Read More &#8943;</a></p>
     </div>
   </li>
   {%- endfor -%}
