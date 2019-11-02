@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Share Knowledge Freely"
+title:  "Share knowledge freely"
 description:  "People or companies that share knowledge freely are successful."
 date:   2019-10-24 23:14:43 +1000
 excerpt_image: /assets/images/toa-heftiba-lbmvueabkt8-unsplash.png
+excerpt_image_credit: Photo by Toa Heftiba on Unsplash
 ---
 I'm no night owl. I'm not really a morning person either. I love my sleep. I always have. When I cannot sleep, which is rare, it's frustrating. Tonight is one of those nights. 
 
-![Photo by Toa Heftiba on Unsplash]({{ "/assets/images/toa-heftiba-lbmvueabkt8-unsplash.png" | relative_url }})
+![{{ page.excerpt_image_credit }}]({{ page.excerpt_image | relative_url }})
 
 ## The thing in my head
 
@@ -35,4 +36,4 @@ My purpose is to share my knowledge with those starting a company, engineers, te
 
 Let's see how this goes...
 
-<small>Photo by Toa Heftiba on Unsplash</small>
+<small>{{ page.excerpt_image_credit }}</small>
