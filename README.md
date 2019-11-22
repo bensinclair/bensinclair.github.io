@@ -7,5 +7,5 @@ This is my blog. Everyone's doing it so why not me?
 Run the following command to access the blog locally at http://localhost:4000
 
 ```shell
-jekyll serve
+bundle exec jekyll serve
 ```
