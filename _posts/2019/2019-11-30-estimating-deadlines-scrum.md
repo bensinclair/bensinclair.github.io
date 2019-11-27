@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Estimating deadlines in Scrum - the 4 layers of certainty"
-description:  "How do to fit deadlines into Scrum?"
+description:  "How do you fit deadlines into Scrum?"
 tags: [ scrum, agile ]
 date:   2019-11-27 15:28:00 +1000
 excerpt_image: /assets/images/remi-bertogliati-64uualn-mym-unsplash.png
