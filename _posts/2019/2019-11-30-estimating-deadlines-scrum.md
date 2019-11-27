@@ -10,7 +10,7 @@ excerpt_image_credit: Photo by Rémi Bertogliati on Unsplash
 
 We started rolling out Scrum across our engineering team this year and we've seen some great success so far. When building software, the "when will it be finished" question is always looming in the face of Product Owners.
 
-Attaching deadlines to Scrum is possible, but it can be complicated when it comes to committing to meeting them. Throw new products, new teams and new codebases in the mix, estimation gets that a lot harder and deadlines become harder to achieve.
+Attaching deadlines to Scrum is possible, but it can be complicated when it comes to committing to meeting them. Throw new products, new teams and new codebases in the mix, estimation are difficult and deadlines become harder to achieve.
 
 ![{{ page.excerpt_image_credit }}]({{ page.excerpt_image | relative_url }})
 <small>{{ page.excerpt_image_credit }}</small>
