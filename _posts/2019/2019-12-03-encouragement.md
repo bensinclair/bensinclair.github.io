@@ -3,7 +3,7 @@ layout: post
 title:  "Encouragement goes a long way"
 description:  "Encouraging someone is a powerful thing to do. Just make sure it's sincere."
 tags: [ motivation ]
-date:   2019-11-28 08:00:00 +1000
+date:   2019-12-03 12:59:00 +1000
 excerpt_image: /assets/images/1luca-bravo-vowifdxogg4-unsplash.png
 excerpt_image_credit: Photo by Luca Bravo on Unsplash
 ---
