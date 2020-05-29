@@ -7,8 +7,6 @@ date:   2020-05-29 18:25:00 +1000
 excerpt_image: /assets/images/danny-mc-kip4dh8iv7a-unsplash.png
 excerpt_image_credit: Photo by Danny Mc on Unsplash
 
-
-
 ---
 
 Something on my mind at the moment is the importance of engagement, especially in a distributed workplace. The people who are going to do really well at distributed work are those who engage. 
