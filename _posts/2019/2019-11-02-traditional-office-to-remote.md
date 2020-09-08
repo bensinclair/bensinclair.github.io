@@ -6,6 +6,7 @@ tags: [ remote ]
 date:   2019-11-02 20:30:00 +1000
 excerpt_image: /assets/images/ivars-krutainis-jtj9-4eszu4-unsplash.png
 excerpt_image_credit: Photo by Ivars Krutainis on Unsplash
+comments_id: 3
 ---
 After being acquired by [Tithe.ly](https://get.tithe.ly), a 100% remote company, my team from [Elvanto](https://elvanto.com) in the last 12 months has gone from everyone in the office to almost all working remotely. I wanted to share our journey in this post.
 

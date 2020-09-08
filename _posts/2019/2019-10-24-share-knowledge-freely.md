@@ -5,10 +5,12 @@ description:  "People or companies that share knowledge freely are successful."
 date:   2019-10-24 23:14:43 +1000
 excerpt_image: /assets/images/toa-heftiba-lbmvueabkt8-unsplash.png
 excerpt_image_credit: Photo by Toa Heftiba on Unsplash
+comments_id: 1
 ---
 I'm no night owl. I'm not really a morning person either. I love my sleep. I always have. When I cannot sleep, which is rare, it's frustrating. Tonight is one of those nights. 
 
 ![{{ page.excerpt_image_credit }}]({{ page.excerpt_image | relative_url }})
+<small>{{ page.excerpt_image_credit }}</small>
 
 ## The thing in my head
 
@@ -35,5 +37,3 @@ So the thought that got me out of bed is "I want to share knowledge so I'm going
 My purpose is to share my knowledge with those starting a company, engineers, team leads, CTO's, anyone who is interested in my journey.
 
 Let's see how this goes...
-
-<small>{{ page.excerpt_image_credit }}</small>

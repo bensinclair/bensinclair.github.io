@@ -6,6 +6,7 @@ tags: [ scrum, agile ]
 date:   2019-11-27 15:28:00 +1000
 excerpt_image: /assets/images/remi-bertogliati-64uualn-mym-unsplash.png
 excerpt_image_credit: Photo by Rémi Bertogliati on Unsplash
+comments_id: 5
 ---
 
 We started rolling out Scrum across our engineering team this year and we've seen some great success so far. When building software, the "when will it be finished" question is always looming in the face of Product Owners.

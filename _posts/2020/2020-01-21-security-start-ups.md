@@ -6,6 +6,7 @@ tags: [ security ]
 date:   2020-02-06 15:18:00 +1000
 excerpt_image: /assets/images/hamzah-hanafi-rjvji1gte7o-unsplash.png
 excerpt_image_credit: Photo by Hamzah Hanafi on Unsplash
+comments_id: 8
 ---
 
 I'll admit, when I started my first company 9 years ago, security wasn't something that crossed my mind. I just wanted to build great software and fast. I think a lot of start-ups have this same mentality. Get the product out the door and worry about "all the things" later. This article talks about some of the things start-ups should be considering when wanting to mature in the area of security.

@@ -6,6 +6,7 @@ tags: [ hiring, engineering ]
 date:   2019-10-29 20:27:00 +1000
 excerpt_image: /assets/images/kalen-emsley-bkci_8qcdvq-unsplash.png
 excerpt_image_credit: Photo by Kalen Emsley on Unsplash
+comments_id: 2
 ---
 Before working at [Tithe.ly](https://get.tithe.ly), I was a little old school at my company [Elvanto](https://www.elvanto.com) where everyone worked in the office. Now that I'm at Tithe.ly, they've introduced me to the world of remote — and I absolutely love it! I'll do a write up on switching from traditional office space to working remotely in another post. But for now, I wanted to talk about hiring remote engineers.
 

@@ -6,7 +6,7 @@ tags: [ programming ]
 date:   2020-06-01 15:38:00 +1000
 excerpt_image: /assets/images/dave-pe8TXM7j_q8-unsplash.png
 excerpt_image_credit: Photo by Dave on Unsplash
-
+comments_id: 10
 ---
 
 We have been using Domain-Driven Design and Hexagonal Architecture for several years in both legacy and newer products we are building. This post is dedicated to why we use Domain-Driven Design and Hexagonal Architecture.

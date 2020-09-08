@@ -6,6 +6,7 @@ tags: [ mentoring, onboarding ]
 date:   2019-11-21 20:40:00 +1000
 excerpt_image: /assets/images/mika-matin-mmylzhpso2i-unsplash.png
 excerpt_image_credit: Photo by Mika Matin on Unsplash
+comments_id: 4
 ---
 
 Onboarding engineers is generally an afterthought for most engineering teams. When you start a project you're not thinking about how new people are going to be introduced in the future. It's one of those things I think everyone wants to spend time on but let's face it, we are too busy coding. This post talks about some practical ways you can onboard engineers and ensure they are mentored in a remote environment.

@@ -6,6 +6,7 @@ tags: [ motivation ]
 date:   2019-12-03 12:59:00 +1000
 excerpt_image: /assets/images/1luca-bravo-vowifdxogg4-unsplash.png
 excerpt_image_credit: Photo by Luca Bravo on Unsplash
+comments_id: 6
 ---
 
 No matter who you are, a leader, a peer, a follower, valuing someone by encouraging them is big. Whether you're all in the same room, on the other side of the office or working remotely, it's quite easy to fail to remember to encourage those around you.

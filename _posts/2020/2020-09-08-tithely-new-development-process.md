@@ -6,6 +6,7 @@ tags: [ software development, programming ]
 date:   2020-09-08 14:54:00 +1000
 excerpt_image: /assets/images/chris-lawton-c0rIh0nFTFU-unsplash.png
 excerpt_image_credit: Photo by Chris Lawton on Unsplash
+comments_id: 11
 ---
 
 Building software is hard. It's an uphill battle and you need endurance as the software matures. Building software is also super satisfying and such an amazing adventure, especially when you start seeing momentum as well as a multitude of happy customers. I think the best software companies aren't the ones who write the best code but those who can make really good decisions on where to dedicate their time.
