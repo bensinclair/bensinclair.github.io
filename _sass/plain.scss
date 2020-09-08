@@ -202,3 +202,14 @@ main {
 	height: 300px;
 	width: 100%;
 }
+
+.image {
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto;
+	padding: 10px;
+	border: solid rgb(217, 217, 217) 1px;
+}
+.image.portrait {
+	max-width: 500px;
+}
