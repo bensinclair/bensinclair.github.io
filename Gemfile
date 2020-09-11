@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 gemspec
 
-gem "jekyll", "~> 4.0"
+gem "jekyll", "~> 4.1"
 gem 'jekyll-feed'
 gem 'kramdown-parser-gfm'
 gem 'kramdown-syntax-coderay'

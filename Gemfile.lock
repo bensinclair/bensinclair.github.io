@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     plainwhite (0.8)
-      jekyll (~> 4.0)
+      jekyll (~> 4.1)
       jekyll-seo-tag (~> 2.6.1)
 
 GEM
@@ -99,7 +99,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 2.1.4)
-  jekyll (~> 4.0)
+  jekyll (~> 4.1)
   jekyll-feed
   kramdown-math-itex2mml
   kramdown-math-katex
