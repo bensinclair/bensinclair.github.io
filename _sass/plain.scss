@@ -13,7 +13,7 @@ $leftWidth: 220px;
 }
 
 body {
-	font-family: 'Raleway', sans-serif;
+	font-family: "Helvetica Neue", helvetica, arial, sans-serif;
 	font-size: 16px;
 	line-height: 1.2em;
 	margin: 0;
@@ -169,7 +169,6 @@ main {
 	padding-left: 30px;
 }
 .post {
-	font-family: 'Merriweather', sans-serif;
 	font-weight: 300;
 	color: #222;
 	line-height: 1.9em;
@@ -180,9 +179,6 @@ main {
 		&:hover {
 			border-bottom: 0.5px solid $linkColor;
 		}
-	}
-	h1, h2, h3, h4, h5, h6 {
-		font-family: Raleway, sans-serif;
 	}
 }
 
