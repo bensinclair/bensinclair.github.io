@@ -17,7 +17,6 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: bensinclair
     github:  bensinclair
     linkedIn: in/benlsinclair
     rss: rss
